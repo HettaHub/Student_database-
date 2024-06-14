@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Hetta</h1>
 <h3 align="center">A Robotics, Autonomous and Interactive Systems Engineer</h3>
 
-- 🔭 I’m currently working on **Embedded system project about Autonomous mobile robot**
+- 🔭 I’m currently working on **A Data base for students project**
 
 - 📫 How to reach me **Mohamed.22120340@muc.edu.eg**
 
